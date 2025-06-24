@@ -6,7 +6,7 @@ This project is a **comprehensive weather monitoring dashboard** built for multi
 
 By leveraging streaming data APIs and intelligent data processing techniques, the system presents critical atmospheric insights in a clean and visually appealing format suitable for both analytical use and public display.
 
----
+
 
 ## 🚀 Key Highlights
 
@@ -15,13 +15,13 @@ By leveraging streaming data APIs and intelligent data processing techniques, th
 - **Data-Intensive Dashboard**: Handles large data streams and renders complex visual elements with minimal latency.
 - **Smart Aggregation**: Transforms high-frequency data into meaningful summaries, trends, and predictions.
 
----
+
 
 ## 🌐 Data Sources
 
 - Weatherapi API key
 
----
+
 
 ## 🧠 Dashboard Insights
 
@@ -48,7 +48,7 @@ By leveraging streaming data APIs and intelligent data processing techniques, th
   - CO (Carbon Monoxide)
   - SO₂, NO₂, O₃
 
----
+
 
 ## 📦 Backend Logic
 
@@ -56,12 +56,12 @@ By leveraging streaming data APIs and intelligent data processing techniques, th
 - **ETL Pipeline**: Processes incoming streaming data using Power BI’s data modeling layer — applying **calculated columns** for enrichment, **new measures** for aggregations, and **DAX** for complex business logic and dynamic calculations.
 - **Power BI**: Renders data into responsive charts, graphs, and widgets.
 
----
+
 
 ## 🖼️ Screenshot
 
 ![Weather Dashboard](https://github.com/Swarnali-Saha/Live_Weather_Dashboard/blob/main/Images/Weather_Report.png)
 
----
+
 
 © 2025 Swarnali Saha | All Rights Reserved
